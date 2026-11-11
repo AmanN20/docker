@@ -1,0 +1,13 @@
+{
+  "name": "docker-learning-app",
+  "version": "1.0.0",
+  "description": "Docker practical application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "pg": "^8.16.3"
+  }
+}
